@@ -12,5 +12,5 @@ Header
 
 
 ### Contact me
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](t.me/sn4pqt)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/sn4pqt)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-black?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/iliyas-bushanov-203554321/)
