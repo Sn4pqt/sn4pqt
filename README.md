@@ -1,4 +1,4 @@
-Header
+# Welcome to my portfolio!
 
 ## My name is Iliyas, and I'm a Junior QA Engineer. This portfolio showcases my learning progress, test documentation, bug reports, and other QA-related materials.
 
@@ -11,6 +11,8 @@ Header
 ![GoogleSheets](https://img.shields.io/badge/-Google%20Sheets-black?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
+### Certifications
+[Software testing from scratch. Theory + Practice. [Artsiom Rusau]](https://stepik.org/cert/2844489)
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/sn4pqt)
