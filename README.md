@@ -11,8 +11,16 @@
 ![GoogleSheets](https://img.shields.io/badge/-Google%20Sheets-black?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
+### Test Documentation
+
+- Test Cases
+- Checklists
+- Bug-Reports
+- SQL Queries
+- Postman Collections
+
 ### Certifications
-[Software testing from scratch. Theory + Practice. [Artsiom Rusau]](https://stepik.org/cert/2844489)
+[Software testing from scratch. Theory + Practice. [Artsiom Rusau]](https://stepik.org/cert/2844489?lang=en)
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/sn4pqt)
