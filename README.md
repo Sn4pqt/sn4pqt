@@ -10,4 +10,7 @@ Header
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=Jira&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/-Google%20Sheets-black?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-Follow me
+
+### Contact me
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](t.me/sn4pqt)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-black?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ilyas-bushanov-203554321/)
