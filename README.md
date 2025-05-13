@@ -9,6 +9,7 @@ Header
 ![Fiddler](https://img.shields.io/badge/-Fiddler-black?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=Jira&logoColor=white)
 ![GoogleSheets](https://img.shields.io/badge/-Google%20Sheets-black?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### Contact me
