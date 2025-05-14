@@ -12,14 +12,14 @@
 
 ### Test Documentation
 
-- [Test Cases](https://github.com/Sn4pqt/test_cases.git)
-- [Checklists](https://github.com/Sn4pqt/checklists.git)
-- [Bug-Reports](https://github.com/Sn4pqt/bug_reports.git)
-- [SQL Queries](https://github.com/Sn4pqt/sql_queries.git)
-- [Postman Collections](https://github.com/Sn4pqt/postman_collections.git)
+- **[Test Cases](https://github.com/Sn4pqt/test_cases.git)**
+- **[Checklists](https://github.com/Sn4pqt/checklists.git)**
+- **[Bug-Reports](https://github.com/Sn4pqt/bug_reports.git)**
+- **[SQL Queries](https://github.com/Sn4pqt/sql_queries.git)**
+- **[Postman Collections](https://github.com/Sn4pqt/postman_collections.git)**
 
 ### Certifications
-[Software testing from scratch. Theory + Practice.](https://stepik.org/cert/2844489?lang=en) [Artsiom Rusau]
+- **[Software testing from scratch. Theory + Practice.](https://stepik.org/cert/2844489?lang=en) [Artsiom Rusau]**
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/sn4pqt)
